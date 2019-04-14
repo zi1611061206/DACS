@@ -1,0 +1,15 @@
+D:\D\New Folder\ZiCoffe\ZiCoffe\bin\Release\ZiCoffe.exe.config
+D:\D\New Folder\ZiCoffe\ZiCoffe\bin\Release\ZiCoffe.exe
+D:\D\New Folder\ZiCoffe\ZiCoffe\bin\Release\ZiCoffe.pdb
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.csprojAssemblyReference.cache
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.GUI.formAdmin.resources
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.GUI.formChangePassword.resources
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.GUI.formLogin.resources
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.GUI.formMain.resources
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.GUI.formNewEmloyees.resources
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.GUI.formProfile.resources
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.Properties.Resources.resources
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.csproj.GenerateResource.cache
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.csproj.CoreCompileInputs.cache
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.exe
+D:\D\New Folder\ZiCoffe\ZiCoffe\obj\Release\ZiCoffe.pdb
